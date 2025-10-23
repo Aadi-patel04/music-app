@@ -2,6 +2,7 @@ import React from 'react'
 
 function HeroSection() {
     return (
+        
         <div
             className='h-auto md:h-[40rem] w-full rounded-md flex
     items-center justify-center relative overflow-hidden mx-auto py-10
